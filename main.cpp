@@ -1,4 +1,4 @@
-#include "../inc/format_variadic.h"
+#include "format_variadic.h"
 
 int main() {
     std::string test = Format("Pizza is {}", "poopy");
